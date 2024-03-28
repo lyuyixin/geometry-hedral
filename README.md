@@ -10,5 +10,5 @@ cd my-python-project
 On Unix or MacOS: source virtualenv/bin/activate\  
 On Windows: .\virtualenv\Scripts\activate 
 
-3. Once your virtual environment is activated, you can install Flask-RESTful using pip:\
+3. Once your virtual environment is activated, you can install Flask-RESTful:\
 pip install flask-restful
